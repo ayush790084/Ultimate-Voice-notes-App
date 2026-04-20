@@ -1,8 +1,20 @@
 # 🎤 Ultimate Voice Notes App
 
-A powerful, modern **Voice Notes Web App** built using **React + Browser APIs (No Backend Required)**.
+A powerful, modern **Voice Notes Web App** built using **React + Browser APIs (No Backend Required)**. Designed to showcase ** frontend skills**
 
-🚀 Designed to showcase ** frontend skills**
+---
+##🚀 Live Demo
+https://voicenotesapp.vercel.app/
+
+---
+
+## 📸 Screenshots
+>👇
+* Main UI & Recording mode
+<img width="626" height="896" alt="image" src="https://github.com/user-attachments/assets/2af7d317-d14e-4cb2-8af5-6e9659f34e3f" />
+
+* Dark mode & Notes list
+* <img width="1162" height="938" alt="Screenshot 2026-04-20 232507" src="https://github.com/user-attachments/assets/d0c3eff8-9c53-4173-a8ee-3d6691e678b3" />
 
 ## 🔥 Features
 
@@ -65,16 +77,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
->👇
-* Main UI & Recording mode
-<img width="1335" height="934" alt="Screenshot 2026-04-20 232456" src="https://github.com/user-attachments/assets/bdada735-447b-4c51-9c68-246097e643aa" />
-
-* Dark mode & Notes list
-* <img width="1162" height="938" alt="Screenshot 2026-04-20 232507" src="https://github.com/user-attachments/assets/d0c3eff8-9c53-4173-a8ee-3d6691e678b3" />
-
----
-
 ## ⚠️ Browser Support
 
 * Works best in **Google Chrome**
@@ -100,10 +102,18 @@ npm start
 
 ---
 
-## 👨‍💻 Author
+##🤝 Contributing
+Contributions are welcome!
 
-Ayush Sharma
+fork → clone → create branch → commit → push → PR
 
+---
+
+##💡 Author
+
+👤 Ayush Sharma 
+📧 sharmaayush0941@gmail.com 
+🌐 GitHub: https://github.com/ayush790084
 
 ---
 
