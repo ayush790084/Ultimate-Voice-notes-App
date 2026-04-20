@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+# 🎤 Ultimate Voice Notes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A powerful, modern **Voice Notes Web App** built using **React + Browser APIs (No Backend Required)**.
 
-## Available Scripts
+🚀 Designed to showcase ** frontend skills**
 
-In the project directory, you can run:
+## 🔥 Features
 
-### `npm start`
+### 🎙 Voice & Audio
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Speech-to-Text (Web Speech API)
+* Text-to-Speech playback
+* Real voice recording (MediaRecorder API)
+* Audio playback for each note
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🧠 Productivity
 
-### `npm test`
+* Create, edit, and delete notes
+* Add categories (Study, Ideas, Tasks)
+* Search notes instantly
+* Timestamp for every note
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🎨 UI/UX
 
-### `npm run build`
+* Modern design
+* Dark / Light mode toggle 🌙☀
+* Responsive layout
+* Smooth interactions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📊 Dashboard
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Total notes count
+* Category tracking
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠 Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* React (JavaScript)
+* HTML5 + CSS3
+* Web Speech API
+* MediaRecorder API
+  
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 1. Clone the repo
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+git clone https://github.com/your-username/voice-notes-app.git
+```
 
-## Learn More
+### 2. Install dependencies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 3. Run the project
 
-### Code Splitting
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📸 Screenshots
+>👇
+* Main UI & Recording mode
+<img width="1335" height="934" alt="Screenshot 2026-04-20 232456" src="https://github.com/user-attachments/assets/bdada735-447b-4c51-9c68-246097e643aa" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Dark mode & Notes list
+* <img width="1162" height="938" alt="Screenshot 2026-04-20 232507" src="https://github.com/user-attachments/assets/d0c3eff8-9c53-4173-a8ee-3d6691e678b3" />
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ⚠️ Browser Support
 
-### Advanced Configuration
+* Works best in **Google Chrome**
+* Requires **microphone permission**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 💡 What I Learned
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Working with browser APIs (SpeechRecognition & MediaRecorder)
+* Managing complex state in React
+* Building full-featured apps without backend
+* Improving UI/UX with modern design
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🚀 Future Improvements
+
+* Export / Import notes
+* Keyboard shortcuts
+* Notifications
+* PWA support
+
+---
+
+## 👨‍💻 Author
+
+Ayush Sharma
+
+
+---
+
+⭐ If you like this project, give it a star!
