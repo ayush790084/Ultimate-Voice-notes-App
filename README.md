@@ -3,7 +3,7 @@
 A powerful, modern **Voice Notes Web App** built using **React + Browser APIs (No Backend Required)**. Designed to showcase ** frontend skills**
 
 ---
-##🚀 Live Demo
+## 🚀 Live Demo
 https://voicenotesapp.vercel.app/
 
 ---
@@ -102,14 +102,14 @@ npm start
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 fork → clone → create branch → commit → push → PR
 
 ---
 
-##💡 Author
+## 💡 Author
 
 👤 Ayush Sharma 
 📧 sharmaayush0941@gmail.com 
